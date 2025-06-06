@@ -1,1 +1,1 @@
-# Projetos em SQL
+# Análise e exploração de dados de crédito 
